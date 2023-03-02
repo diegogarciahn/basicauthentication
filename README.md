@@ -1,3 +1,3 @@
-# WEB SERVER + REST SERVER
+# REST SERVER WITH BASIC AUTHENTICATION
 
-RECUERDEN QUE DEBEN DE EJECUTAR ```npm install``` para reconstruir los módulos de Node.
+This project is a simple demo of a Node JS REST server with basic authentication.
